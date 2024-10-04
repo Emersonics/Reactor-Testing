@@ -1,0 +1,162 @@
+{
+	"entities": {
+		"Avatar": [
+			{
+				"asset id": 3,
+				"collision filter": {
+					"asset": 5
+				},
+				"physics material": {
+					"asset": 7
+				},
+				"scripts": [
+					{
+						"name": ".ksCapsuleCollider",
+						"params": {
+							"shape id": 2,
+							"material": null,
+							"filter": null,
+							"offset": [
+								0.0,
+								0.0,
+								0.0
+							],
+							"trigger flag": false,
+							"simulation flag": true,
+							"query flag": true,
+							"enabled": true
+						}
+					},
+					{
+						"name": ".ksBaseRigidBody",
+						"params": {
+							"constraints": 112
+						}
+					},
+					{
+						"name": "ServerAvatar"
+					}
+				]
+			}
+		],
+		"Bullet": [
+			{
+				"asset id": 8,
+				"scale": [
+					0.2,
+					0.2,
+					0.2
+				],
+				"collision filter": {
+					"asset": 4
+				},
+				"scripts": [
+					{
+						"name": ".ksSphereCollider",
+						"params": {
+							"shape id": 3,
+							"material": null,
+							"filter": null,
+							"offset": [
+								0.0,
+								0.0,
+								0.0
+							],
+							"trigger flag": false,
+							"simulation flag": true,
+							"query flag": true,
+							"enabled": true
+						}
+					},
+					{
+						"name": ".ksBaseRigidBody",
+						"params": {
+							"use gravity": false
+						}
+					},
+					{
+						"name": "ServerBullet"
+					}
+				]
+			}
+		],
+		"Cube": [
+			{
+				"asset id": 1,
+				"scripts": [
+					{
+						"name": ".ksBoxCollider",
+						"params": {
+							"shape id": 1,
+							"material": null,
+							"filter": null,
+							"offset": [
+								0.0,
+								0.0,
+								0.0
+							],
+							"trigger flag": false,
+							"simulation flag": true,
+							"query flag": true,
+							"enabled": true
+						}
+					},
+					{
+						"name": ".ksBaseRigidBody"
+					}
+				]
+			}
+		]
+	},
+	"assets": {
+		"ReactorScripts/Resources/AvatarController": {
+			"asset id": 2,
+			"name": "AvatarController",
+			"fields": {
+				"m_useInputPrediction": true,
+				"m_speed": 5.0,
+				"m_turnSpeed": 360.0,
+				"m_jumpSpeed": 6.0,
+				"m_shootInterval": 0.3333333
+			}
+		},
+		"Tutorial Assets/Collision Filter/Bullet": {
+			"asset id": 4,
+			"name": "/ksCollisionFilter",
+			"fields": {
+				"m_group": 2,
+				"m_notify": 5,
+				"m_collide": 0
+			}
+		},
+		"Tutorial Assets/Collision Filter/Player": {
+			"asset id": 5,
+			"name": "/ksCollisionFilter",
+			"fields": {
+				"m_group": 1,
+				"m_notify": 0,
+				"m_collide": 5
+			}
+		},
+		"Tutorial Assets/Collision Filter/Terrain": {
+			"asset id": 6,
+			"name": "/ksCollisionFilter",
+			"fields": {
+				"m_group": 4,
+				"m_notify": 0,
+				"m_collide": 5
+			}
+		},
+		"Tutorial Assets/Physics Material/NoFriction": {
+			"asset id": 7,
+			"name": ".ksPhysicsMaterial",
+			"fields": {
+				"StaticFriction": 0.0,
+				"DynamicFriction": 0.0,
+				"Restitution": 0.0,
+				"FrictionCombineMode": 1,
+				"RestitutionCombineMode": 0
+			}
+		}
+	}
+}

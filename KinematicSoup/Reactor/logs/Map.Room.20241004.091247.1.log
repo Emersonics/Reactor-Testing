@@ -1,0 +1,24 @@
+2024-10-04 09:12:47.3291 [INFO; Root]  KinematicSoup Technologies Inc.
+2024-10-04 09:12:47.3480 [INFO; Root]  Reactor Server 1.0.1
+2024-10-04 09:12:47.4659 [DEBUG; Root]  Loading Asset Scripts
+2024-10-04 09:12:47.4689 [DEBUG; Root]  Loading Room Configs
+2024-10-04 09:12:47.4799 [DEBUG; Root]  Initializing PhysX
+2024-10-04 09:12:47.5122 [DEBUG; Root]  Loading PhysX geometry
+2024-10-04 09:12:47.5192 [INFO; Root]  Loaded 2 geometries
+2024-10-04 09:12:47.5202 [WARNING; System.Type]  Unable to locate geometry file geometry.Map.dat
+2024-10-04 09:12:47.5202 [DEBUG; Root]  Loading entity prefabs
+2024-10-04 09:12:47.5411 [INFO; Root]  Loaded 2 entity prefabs
+2024-10-04 09:12:47.5411 [DEBUG; Root]  Loading entity instances
+2024-10-04 09:12:47.5840 [DEBUG; Root]  Initializing scripts
+2024-10-04 09:12:47.6159 [DEBUG; Root]  Room setup complete
+2024-10-04 09:12:47.6169 [INFO; Reactor.ServerRoom]  Starting room 1
+2024-10-04 09:12:47.6169 [INFO; Root]  Sending client updates every 2 frames
+2024-10-04 09:12:47.6169 [INFO; Root]  Attempting to sync simulation time to match elapsed time.
+2024-10-04 09:12:47.6169 [INFO; Root]  Opening TCP port 8000
+2024-10-04 09:12:47.6179 [INFO; Root]  Opening RUDP port 8000
+2024-10-04 09:12:51.3840 [INFO; Root]  Client(id = 1, address = 127.0.0.1:55277) connected
+2024-10-04 09:12:51.3900 [DEBUG; Root]  Client(id = 1, address = 127.0.0.1:55277) model validated
+2024-10-04 09:12:51.4050 [DEBUG; Root]  Client(id = 1, address = 127.0.0.1:55277) authenticated
+2024-10-04 09:12:51.4224 [INFO; Root]  Player 1 joined
+2024-10-04 09:13:46.4050 [INFO; Root]  Client(id = 1, address = 127.0.0.1:55277) disconnected: 2-End of file
+2024-10-04 09:13:46.4189 [INFO; Root]  Player 1 left

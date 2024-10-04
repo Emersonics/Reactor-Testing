@@ -1,0 +1,18 @@
+2024-10-04 09:12:38.3633 [INFO; Root]  KinematicSoup Technologies Inc.
+2024-10-04 09:12:38.3793 [INFO; Root]  Reactor Server 1.0.1
+2024-10-04 09:12:38.4621 [DEBUG; Root]  Loading Asset Scripts
+2024-10-04 09:12:38.4661 [DEBUG; Root]  Loading Room Configs
+2024-10-04 09:12:38.4751 [DEBUG; Root]  Initializing PhysX
+2024-10-04 09:12:38.5010 [DEBUG; Root]  Loading PhysX geometry
+2024-10-04 09:12:38.5050 [INFO; Root]  Loaded 2 geometries
+2024-10-04 09:12:38.5050 [WARNING; System.Type]  Unable to locate geometry file geometry.Map.dat
+2024-10-04 09:12:38.5050 [DEBUG; Root]  Loading entity prefabs
+2024-10-04 09:12:38.5159 [INFO; Root]  Loaded 2 entity prefabs
+2024-10-04 09:12:38.5159 [DEBUG; Root]  Loading entity instances
+2024-10-04 09:12:38.5389 [DEBUG; Root]  Initializing scripts
+2024-10-04 09:12:38.5648 [DEBUG; Root]  Room setup complete
+2024-10-04 09:12:38.5648 [INFO; Reactor.ServerRoom]  Starting room 1
+2024-10-04 09:12:38.5648 [INFO; Root]  Sending client updates every 2 frames
+2024-10-04 09:12:38.5648 [INFO; Root]  Attempting to sync simulation time to match elapsed time.
+2024-10-04 09:12:38.5658 [INFO; Root]  Opening TCP port 8000
+2024-10-04 09:12:38.5668 [INFO; Root]  Opening RUDP port 8000

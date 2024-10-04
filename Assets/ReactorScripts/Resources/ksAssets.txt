@@ -1,0 +1,8 @@
+2|*ReactorScripts/Resources/AvatarController
+4|*Tutorial Assets/Collision Filter/Bullet
+5|*Tutorial Assets/Collision Filter/Player
+6|*Tutorial Assets/Collision Filter/Terrain
+7|*Tutorial Assets/Physics Material/NoFriction
+3|Avatar
+8|Bullet
+1|Cube

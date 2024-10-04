@@ -1,0 +1,7 @@
+C:\Users\11929057\Desktop\Programming Softwares\Reactor Test\KinematicSoup\Reactor\server\KSServerRuntime\KSServerRuntime.Local.dll
+C:\Users\11929057\Desktop\Programming Softwares\Reactor Test\KinematicSoup\Reactor\server\KSServerRuntime\KSServerRuntime.Local.pdb
+C:\Users\11929057\Desktop\Programming Softwares\Reactor Test\KinematicSoup\Reactor\intermediate\LocalRelease\KSServerRuntime.csproj.AssemblyReference.cache
+C:\Users\11929057\Desktop\Programming Softwares\Reactor Test\KinematicSoup\Reactor\intermediate\LocalRelease\KSServerRuntime.csproj.CoreCompileInputs.cache
+C:\Users\11929057\Desktop\Programming Softwares\Reactor Test\KinematicSoup\Reactor\intermediate\LocalRelease\KSServerRuntime.csproj.CopyComplete
+C:\Users\11929057\Desktop\Programming Softwares\Reactor Test\KinematicSoup\Reactor\intermediate\LocalRelease\KSServerRuntime.Local.dll
+C:\Users\11929057\Desktop\Programming Softwares\Reactor Test\KinematicSoup\Reactor\intermediate\LocalRelease\KSServerRuntime.Local.pdb
