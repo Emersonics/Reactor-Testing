@@ -5,4 +5,3 @@
 7|*Tutorial Assets/Physics Material/NoFriction
 3|Avatar
 8|Bullet
-1|Cube

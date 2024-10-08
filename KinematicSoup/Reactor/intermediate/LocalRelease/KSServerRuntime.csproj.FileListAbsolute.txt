@@ -5,3 +5,10 @@ C:\Users\11929057\Desktop\Programming Softwares\Reactor Test\KinematicSoup\React
 C:\Users\11929057\Desktop\Programming Softwares\Reactor Test\KinematicSoup\Reactor\intermediate\LocalRelease\KSServerRuntime.csproj.CopyComplete
 C:\Users\11929057\Desktop\Programming Softwares\Reactor Test\KinematicSoup\Reactor\intermediate\LocalRelease\KSServerRuntime.Local.dll
 C:\Users\11929057\Desktop\Programming Softwares\Reactor Test\KinematicSoup\Reactor\intermediate\LocalRelease\KSServerRuntime.Local.pdb
+G:\Unity Projects\Reactor-Testing\KinematicSoup\Reactor\server\KSServerRuntime\KSServerRuntime.Local.dll
+G:\Unity Projects\Reactor-Testing\KinematicSoup\Reactor\server\KSServerRuntime\KSServerRuntime.Local.pdb
+G:\Unity Projects\Reactor-Testing\KinematicSoup\Reactor\intermediate\LocalRelease\KSServerRuntime.csproj.AssemblyReference.cache
+G:\Unity Projects\Reactor-Testing\KinematicSoup\Reactor\intermediate\LocalRelease\KSServerRuntime.csproj.CoreCompileInputs.cache
+G:\Unity Projects\Reactor-Testing\KinematicSoup\Reactor\intermediate\LocalRelease\KSServer.8C2C61C2.Up2Date
+G:\Unity Projects\Reactor-Testing\KinematicSoup\Reactor\intermediate\LocalRelease\KSServerRuntime.Local.dll
+G:\Unity Projects\Reactor-Testing\KinematicSoup\Reactor\intermediate\LocalRelease\KSServerRuntime.Local.pdb

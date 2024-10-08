@@ -71,7 +71,7 @@
 				{
 					"name": ".ksBoxCollider",
 					"params": {
-						"shape id": 1,
+						"shape id": -1,
 						"material": null,
 						"filter": null,
 						"offset": [
@@ -100,7 +100,7 @@
 				{
 					"name": ".ksBoxCollider",
 					"params": {
-						"shape id": 1,
+						"shape id": -1,
 						"material": null,
 						"filter": null,
 						"offset": [
@@ -138,7 +138,7 @@
 				{
 					"name": ".ksBoxCollider",
 					"params": {
-						"shape id": 1,
+						"shape id": -1,
 						"material": null,
 						"filter": null,
 						"offset": [
@@ -167,7 +167,7 @@
 				{
 					"name": ".ksBoxCollider",
 					"params": {
-						"shape id": 1,
+						"shape id": -1,
 						"material": null,
 						"filter": null,
 						"offset": [
@@ -205,7 +205,7 @@
 				{
 					"name": ".ksBoxCollider",
 					"params": {
-						"shape id": 1,
+						"shape id": -1,
 						"material": null,
 						"filter": null,
 						"offset": [

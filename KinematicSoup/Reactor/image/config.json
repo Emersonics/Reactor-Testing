@@ -79,33 +79,6 @@
 					}
 				]
 			}
-		],
-		"Cube": [
-			{
-				"asset id": 1,
-				"scripts": [
-					{
-						"name": ".ksBoxCollider",
-						"params": {
-							"shape id": 1,
-							"material": null,
-							"filter": null,
-							"offset": [
-								0.0,
-								0.0,
-								0.0
-							],
-							"trigger flag": false,
-							"simulation flag": true,
-							"query flag": true,
-							"enabled": true
-						}
-					},
-					{
-						"name": ".ksBaseRigidBody"
-					}
-				]
-			}
 		]
 	},
 	"assets": {
